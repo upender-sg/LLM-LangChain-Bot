@@ -9,7 +9,8 @@ import streamlit as st
 import os
 
 
-## Function to load OpenAI model and get respones
+## Function to load OpenAI model and get response
+# can try with the various model and can observe the results!
 
 def get_openai_response(question):
     llm=OpenAI(model_name="text-davinci-003",temperature=0.5)
