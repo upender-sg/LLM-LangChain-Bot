@@ -1,4 +1,4 @@
-# LangChain LLM Basic Q&A Chatbot application 
+# LangChain LLM  Q&A Chatbot application 
 
 
 
