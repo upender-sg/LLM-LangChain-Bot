@@ -8,7 +8,7 @@ The Q&A Chatbot is a language model-based chatbot designed for answering questio
 ## Features
 
 - Accurate question and answer capabilities.
-- Flexible and customizable for various domains.....
+- Flexible and customizable for various domains.
 
 
 
